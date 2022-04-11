@@ -1,4 +1,4 @@
-<div style="bg-color:#000000">
+<div style="background-color:#000000">
 <p>Olá, me chamo Eli Ferretti,  seja bem vindo(a)!!</p> 
 <p>Obrigado por ver o meu perfil :)</p>
 
