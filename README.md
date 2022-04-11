@@ -1,3 +1,4 @@
+<div style="bg-color:#000000">
 <p>Olá, me chamo Eli Ferretti,  seja bem vindo(a)!!</p> 
 <p>Obrigado por ver o meu perfil :)</p>
 
@@ -35,3 +36,4 @@
   <a href = "mailto:eliferretti14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eli-ferretti-245322218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
+  </div>
